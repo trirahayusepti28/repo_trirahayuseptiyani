@@ -4,6 +4,7 @@ Flowchart
 
 Output Menghitung Volume Bangun Ruang
 ![alt text](https://github.com/trirahayusepti28/repo_trirahayuseptiyani/blob/main/Screenshot%20(9).png?raw=true)
+Penjelasan:
 Program tersebut adalah program menghitung volume bangun ruang. Pertama tama membuat login sederhana dimana inputan adalah nama/ username, nim, dan pin. Pada pemprogramannya menggunkan if, else.
 Setelah memasukan username, nim, dan pin yang benar login akan berhasil, tetapi jika salah memasukan login akan gagal.
 Selanjutnya program menghitung volume bangun ruang (bola, tabung, limas segitiga). 
