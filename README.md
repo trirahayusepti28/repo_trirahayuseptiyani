@@ -1,5 +1,5 @@
 # repo_trirahayuseptiyani
-Flowchart Menghitung Volume Bangun Ruang
+Flowchart
 ![alt text](https://github.com/trirahayusepti28/repo_trirahayuseptiyani/blob/main/Screenshot%20(7).png?raw=true)
 
 Output Menghitung Volume Bangun Ruang
