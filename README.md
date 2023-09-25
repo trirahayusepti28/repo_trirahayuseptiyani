@@ -1,6 +1,6 @@
 # repo_trirahayuseptiyani
 ![alt text](https://github.com/trirahayusepti28/repo_trirahayuseptiyani/blob/main/Screenshot%20(7).png?raw=true)
-![alt text](https://github.com/trirahayusepti28/repo_trirahayuseptiyani/commit/6e89af1e1ea3b977404a734eb576adae48710223?raw=true)
+
 
 Program tersebut adalah program menghitung volume bangun ruang. Pertama tama membuat login sederhana dimana inputan adalah nama/ username, nim, dan pin. Pada pemprogramannya menggunkan if, else.
 Setelah memasukan username, nim, dan pin yang benar login akan berhasil, tetapi jika salah memasukan login akan gagal.
